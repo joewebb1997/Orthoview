@@ -1,0 +1,30 @@
+Scaler Color	255	0	0	red																							
+BasisPoint Color	255	0	255	magenta																							
+Axis Orientation Color	0	255	0	green																							
+Outline Color	0	0	0	black																							
+Guide Color	0	0	255	blue																							
+Decoration Color	0	255	255	cyan																							
+Border Color	255	255	0	yellow																							
+Relates to measurement											y																
+Has Selection Panel	y			y								y															
+Field Names:	Part Number	SVG file	Range	Component	Part	View	Side	Flip?	FlipDrawing	RotateDrawing	Size	mmOffset	mmLength	mmStemDiam	TaperAngle	Offset	Length	NeckAngle	Special	HeadSize	HeadLength	mmHeadLength	mmShellDiam	Profile	Message		
+1		Humeral_3.5_84_ap	Discovery	ElbowHumeral	ElbowHumeral	AP	Left			180	3.5						84mm										84
+2		114904_05_3_AP	Discovery	ElbowHumeral	ElbowHumeral	AP	Left		Yes		4						100mm									114904	
+3		Humeral_3.5_124_ap	Discovery	ElbowHumeral	ElbowHumeral	AP	Left			180	3.5						124mm										124
+4		114914_15_3_AP	Discovery	ElbowHumeral	ElbowHumeral	AP	Left		Yes		4						150mm									114914	
+5		Humeral_3.5_84_ml	Discovery	ElbowHumeral	ElbowHumeral	LAT	Left		Yes	180	3.5						84mm										84
+6		114904_05_3_ML	Discovery	ElbowHumeral	ElbowHumeral	LAT	Left				4						100mm									114904	
+7		Humeral_3.5_124_ml	Discovery	ElbowHumeral	ElbowHumeral	LAT	Left		Yes	180	3.5						124mm										124
+8		114914_15_3_ML	Discovery	ElbowHumeral	ElbowHumeral	LAT	Left				4						150mm									114914	
+9		Ulna_2.5_53_ap	Discovery	ElbowUlnar	ElbowUlnar	AP	Left				2.5						53mm										53
+10		114812_3_3_AP	Discovery	ElbowUlnar	ElbowUlnar	AP	Left		Yes	180	3						75mm									114812	
+11		114822_3_3_AP	Discovery	ElbowUlnar	ElbowUlnar	AP	Left		Yes	180	4						75mm									114822	
+12		Ulna_2.5_84_ap	Discovery	ElbowUlnar	ElbowUlnar	AP	Left				2.5						84mm										84
+13		114816_7_3_AP	Discovery	ElbowUlnar	ElbowUlnar	AP	Left		Yes	180	3						115mm									114816	
+14		114826_7_3_AP	Discovery	ElbowUlnar	ElbowUlnar	AP	Left		Yes	180	4						115mm									114826	
+15		Ulna_2.5_53_ml	Discovery	ElbowUlnar	ElbowUlnar	LAT	Left		Yes		2.5						53mm										53
+16		114812_3_3_ML	Discovery	ElbowUlnar	ElbowUlnar	LAT	Left			180	3						75mm									114812	
+17		114822_3_3_ML	Discovery	ElbowUlnar	ElbowUlnar	LAT	Left			180	4						75mm									114822	
+18		Ulna_2.5_84_ml	Discovery	ElbowUlnar	ElbowUlnar	LAT	Left		Yes		2.5						84mm										84
+19		114816_7_3_ML	Discovery	ElbowUlnar	ElbowUlnar	LAT	Left			180	3						115mm									114816	
+20		114826_7_3_ML	Discovery	ElbowUlnar	ElbowUlnar	LAT	Left			180	4						115mm									114826	

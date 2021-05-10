@@ -1,0 +1,638 @@
+Scaler Color	255	0	0	red												
+BasisPoint Color	255	0	255	magenta												
+Axis Orientation Color	0	255	0	green												
+Outline Color	0	0	0	black												
+Guide Color	0	255	255	cyan												
+Decoration Color	0	0	255	blue												
+Extra Color	255	255	0	yellow												
+																
+Relates to measurement									y							
+Has Selection Panel	y			y									y			
+Field Names:	Part Number	SVG file	Component	Part	View	Side	Flip?	WidthMM	LengthMM	ThicknessMM	InsertJumpMM	Size	PostAntDistance	Message		
+1		F-1-0_AP	Femoral	Femoral	AP	Right	Yes			8.5		Extra Small			F-1-0	
+2		F-2-0_AP	Femoral	Femoral	AP	Right	Yes			8.5		Small			F-2-0	
+3		F-3-0_AP	Femoral	Femoral	AP	Right	Yes			8.5		Medium			F-3-0	
+4		F-4-0_AP	Femoral	Femoral	AP	Right	Yes			8.5		Large			F-4-0	
+5		F-5-0_AP	Femoral	Femoral	AP	Right	Yes			8.5		Extra Large			F-5-0	
+6		F-6-0_AP	Femoral	Femoral	AP	Right	Yes			8.5		Extra-Extra-Large			F-6-0	
+7		F-1-0_ML	Femoral	Femoral	LAT	Right	Yes	46		8.5		Extra Small	46.688		F-1-0	
+8		F-2-0_ML	Femoral	Femoral	LAT	Right	Yes	50		8.5		Small	50.679		F-2-0	
+9		F-3-0_ML	Femoral	Femoral	LAT	Right	Yes	53.5		8.5		Medium	54.671		F-3-0	
+10		F-4-0_ML	Femoral	Femoral	LAT	Right	Yes	57.5		8.5		Large	58.541		F-4-0	
+11		F-5-0_ML	Femoral	Femoral	LAT	Right	Yes	61.5		8.5		Extra Large	62.533		F-5-0	
+12		F-6-0_ML	Femoral	Femoral	LAT	Right	Yes	65		8.5		Extra-Extra-Large	65.798		F-6-0	
+13		TB-1-0_AP	TibialBase	TibialBase	AP	Right	Yes	65.5	30			Extra Small			TB-1-0	
+14		TB-2-0_AP	TibialBase	TibialBase	AP	Right	Yes	70.5	35			Small			TB-2-0	
+15		TB-3-0_AP	TibialBase	TibialBase	AP	Right	Yes	76	35			Medium			TB-3-0	
+16		TB-4-0_AP	TibialBase	TibialBase	AP	Right	Yes	81	35			Large			TB-4-0	
+17		TB-5-0_AP	TibialBase	TibialBase	AP	Right	Yes	86.5	40			Extra Large			TB-5-0	
+18		TB-1-0_ML	TibialBase	TibialBase	LAT	Right	Yes		30			Extra Small			TB-1-0	
+19		TB-2-0_ML	TibialBase	TibialBase	LAT	Right	Yes		35			Small			TB-2-0	
+20		TB-3-0_ML	TibialBase	TibialBase	LAT	Right	Yes		35			Medium			TB-3-0	
+21		TB-4-0_ML	TibialBase	TibialBase	LAT	Right	Yes		35			Large			TB-4-0	
+22		TB-5-0_ML	TibialBase	TibialBase	LAT	Right	Yes		40			Extra Large			TB-5-0	
+23		TI-1-8_AP	TibialInsert	TibialInsert	AP	Right	Yes			8	0	Extra Small			TI-1-8	
+24		TI-2-8_AP	TibialInsert	TibialInsert	AP	Right	Yes			8	0	Small			TI-2-8	
+25		TI-3-8_AP	TibialInsert	TibialInsert	AP	Right	Yes			8	0	Medium			TI-3-8	
+26		TI-4-8_AP	TibialInsert	TibialInsert	AP	Right	Yes			8	0	Large			TI-4-8	
+27		TI-5-8_AP	TibialInsert	TibialInsert	AP	Right	Yes			8	0	Extra Large			TI-5-8	
+28		TI-1-8_ML	TibialInsert	TibialInsert	LAT	Right	Yes			8	0	Extra Small			TI-1-8	
+29		TI-2-8_ML	TibialInsert	TibialInsert	LAT	Right	Yes			8	0	Small			TI-2-8	
+30		TI-3-8_ML	TibialInsert	TibialInsert	LAT	Right	Yes			8	0	Medium			TI-3-8	
+31		TI-4-8_ML	TibialInsert	TibialInsert	LAT	Right	Yes			8	0	Large			TI-4-8	
+32		TI-5-8_ML	TibialInsert	TibialInsert	LAT	Right	Yes			8	0	Extra Large			TI-5-8	
+33		TI-1-8_AP	TibialInsert	TibialInsert	AP	Right	Yes			10	2	Extra Small			TI-1-10	
+34		TI-2-8_AP	TibialInsert	TibialInsert	AP	Right	Yes			10	2	Small			TI-2-10	
+35		TI-3-8_AP	TibialInsert	TibialInsert	AP	Right	Yes			10	2	Medium			TI-3-10	
+36		TI-4-8_AP	TibialInsert	TibialInsert	AP	Right	Yes			10	2	Large			TI-4-10	
+37		TI-5-8_AP	TibialInsert	TibialInsert	AP	Right	Yes			10	2	Extra Large			TI-5-10	
+38		TI-1-8_ML	TibialInsert	TibialInsert	LAT	Right	Yes			10	2	Extra Small			TI-1-10	
+39		TI-2-8_ML	TibialInsert	TibialInsert	LAT	Right	Yes			10	2	Small			TI-2-10	
+40		TI-3-8_ML	TibialInsert	TibialInsert	LAT	Right	Yes			10	2	Medium			TI-3-10	
+41		TI-4-8_ML	TibialInsert	TibialInsert	LAT	Right	Yes			10	2	Large			TI-4-10	
+42		TI-5-8_ML	TibialInsert	TibialInsert	LAT	Right	Yes			10	2	Extra Large			TI-5-10	
+43		TI-1-8_AP	TibialInsert	TibialInsert	AP	Right	Yes			12	4	Extra Small			TI-1-12	
+44		TI-2-8_AP	TibialInsert	TibialInsert	AP	Right	Yes			12	4	Small			TI-2-12	
+45		TI-3-8_AP	TibialInsert	TibialInsert	AP	Right	Yes			12	4	Medium			TI-3-12	
+46		TI-4-8_AP	TibialInsert	TibialInsert	AP	Right	Yes			12	4	Large			TI-4-12	
+47		TI-5-8_AP	TibialInsert	TibialInsert	AP	Right	Yes			12	4	Extra Large			TI-5-12	
+48		TI-1-8_ML	TibialInsert	TibialInsert	LAT	Right	Yes			12	4	Extra Small			TI-1-12	
+49		TI-2-8_ML	TibialInsert	TibialInsert	LAT	Right	Yes			12	4	Small			TI-2-12	
+50		TI-3-8_ML	TibialInsert	TibialInsert	LAT	Right	Yes			12	4	Medium			TI-3-12	
+51		TI-4-8_ML	TibialInsert	TibialInsert	LAT	Right	Yes			12	4	Large			TI-4-12	
+52		TI-5-8_ML	TibialInsert	TibialInsert	LAT	Right	Yes			12	4	Extra Large			TI-5-12	
+53		TI-1-8_AP	TibialInsert	TibialInsert	AP	Right	Yes			15	7	Extra Small			TI-1-15	
+54		TI-2-8_AP	TibialInsert	TibialInsert	AP	Right	Yes			15	7	Small			TI-2-15	
+55		TI-3-8_AP	TibialInsert	TibialInsert	AP	Right	Yes			15	7	Medium			TI-3-15	
+56		TI-4-8_AP	TibialInsert	TibialInsert	AP	Right	Yes			15	7	Large			TI-4-15	
+57		TI-5-8_AP	TibialInsert	TibialInsert	AP	Right	Yes			15	7	Extra Large			TI-5-15	
+58		TI-1-8_ML	TibialInsert	TibialInsert	LAT	Right	Yes			15	7	Extra Small			TI-1-15	
+59		TI-2-8_ML	TibialInsert	TibialInsert	LAT	Right	Yes			15	7	Small			TI-2-15	
+60		TI-3-8_ML	TibialInsert	TibialInsert	LAT	Right	Yes			15	7	Medium			TI-3-15	
+61		TI-4-8_ML	TibialInsert	TibialInsert	LAT	Right	Yes			15	7	Large			TI-4-15	
+62		TI-5-8_ML	TibialInsert	TibialInsert	LAT	Right	Yes			15	7	Extra Large			TI-5-15	
+63		TI-1-8_AP	TibialInsert	TibialInsert	AP	Right	Yes			18	10	Extra Small			TI-1-18	
+64		TI-2-8_AP	TibialInsert	TibialInsert	AP	Right	Yes			18	10	Small			TI-2-18	
+65		TI-3-8_AP	TibialInsert	TibialInsert	AP	Right	Yes			18	10	Medium			TI-3-18	
+66		TI-4-8_AP	TibialInsert	TibialInsert	AP	Right	Yes			18	10	Large			TI-4-18	
+67		TI-5-8_AP	TibialInsert	TibialInsert	AP	Right	Yes			18	10	Extra Large			TI-5-18	
+68		TI-1-8_ML	TibialInsert	TibialInsert	LAT	Right	Yes			18	10	Extra Small			TI-1-18	
+69		TI-2-8_ML	TibialInsert	TibialInsert	LAT	Right	Yes			18	10	Small			TI-2-18	
+70		TI-3-8_ML	TibialInsert	TibialInsert	LAT	Right	Yes			18	10	Medium			TI-3-18	
+71		TI-4-8_ML	TibialInsert	TibialInsert	LAT	Right	Yes			18	10	Large			TI-4-18	
+72		TI-5-8_ML	TibialInsert	TibialInsert	LAT	Right	Yes			18	10	Extra Large			TI-5-18	
+73		TI-1-8_AP	TibialInsert	TibialInsert	AP	Right	Yes			21	13	Extra Small			TI-1-21	
+74		TI-2-8_AP	TibialInsert	TibialInsert	AP	Right	Yes			21	13	Small			TI-2-21	
+75		TI-3-8_AP	TibialInsert	TibialInsert	AP	Right	Yes			21	13	Medium			TI-3-21	
+76		TI-4-8_AP	TibialInsert	TibialInsert	AP	Right	Yes			21	13	Large			TI-4-21	
+77		TI-5-8_AP	TibialInsert	TibialInsert	AP	Right	Yes			21	13	Extra Large			TI-5-21	
+78		TI-1-8_ML	TibialInsert	TibialInsert	LAT	Right	Yes			21	13	Extra Small			TI-1-21	
+79		TI-2-8_ML	TibialInsert	TibialInsert	LAT	Right	Yes			21	13	Small			TI-2-21	
+80		TI-3-8_ML	TibialInsert	TibialInsert	LAT	Right	Yes			21	13	Medium			TI-3-21	
+81		TI-4-8_ML	TibialInsert	TibialInsert	LAT	Right	Yes			21	13	Large			TI-4-21	
+82		TI-5-8_ML	TibialInsert	TibialInsert	LAT	Right	Yes			21	13	Extra Large			TI-5-21	
+83		TI-1-8_AP	TibialInsert	TibialInsert	AP	Right	Yes			25	17	Extra Small			TI-1-25	
+84		TI-2-8_AP	TibialInsert	TibialInsert	AP	Right	Yes			25	17	Small			TI-2-25	
+85		TI-3-8_AP	TibialInsert	TibialInsert	AP	Right	Yes			25	17	Medium			TI-3-25	
+86		TI-4-8_AP	TibialInsert	TibialInsert	AP	Right	Yes			25	17	Large			TI-4-25	
+87		TI-5-8_AP	TibialInsert	TibialInsert	AP	Right	Yes			25	17	Extra Large			TI-5-25	
+88		TI-1-8_ML	TibialInsert	TibialInsert	LAT	Right	Yes			25	17	Extra Small			TI-1-25	
+89		TI-2-8_ML	TibialInsert	TibialInsert	LAT	Right	Yes			25	17	Small			TI-2-25	
+90		TI-3-8_ML	TibialInsert	TibialInsert	LAT	Right	Yes			25	17	Medium			TI-3-25	
+91		TI-4-8_ML	TibialInsert	TibialInsert	LAT	Right	Yes			25	17	Large			TI-4-25	
+92		TI-5-8_ML	TibialInsert	TibialInsert	LAT	Right	Yes			25	17	Extra Large			TI-5-25	
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																
+																

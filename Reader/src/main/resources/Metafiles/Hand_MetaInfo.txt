@@ -1,0 +1,47 @@
+Fixing Method	Cementless			ø																																																																																																														
+Prosthesis Banner	generic_hand_plate.gif																																																																																																																	
+Scaler Color	255	0	0	red																																																																																																														
+BasisPoint Color	255	0	255	magenta																																																																																																														
+Axis Orientation Color	0	255	0	green																																																																																																														
+Outline Color	0	0	0	black																																																																																																														
+Guide Color	0	0	255	blue																																																																																																														
+Decoration Color	0	255	255	cyan																																																																																																														
+Border Color	102	51	51	brown																																																																																																														
+Extra Color	255	102	0	orange																																																																																																														
+Relates to measurement												y																																																																																																						
+Has Selection Panel	y			y																																																																																																														
+Field Names:	Part Number	SVG file	Component	Part	Orientation	View	Side	Flip?	flipdrawing	rotatedrawing	Width	Length	mmWidth	mmLength	ScrewType	HoleID	HDefaultScrew	DefaultScrewLength	HDiam	HAngAP	Measure	HAngML	HAngSI	HSlop	HType	HLen	CHDynX	CHDynY	CHDynZ	CHLokX	CHLokY	CHLokZ	HoleID	HPosX	HPosY	HoleID	HPosX	HPosY	HoleID	HPosX	HPosY	HoleID	HPosX	HPosY	HoleID	HPosX	HPosY	HoleID	HPosX	HPosY	HoleID	HPosX	HPosY	HoleID	HPosX	HPosY	HoleID	HPosX	HPosY	HoleID	HPosX	HPosY	HoleID	HPosX	HPosY	HoleID	HPosX	HPosY																																														
+H			Hole	hole			Left									hole1	cortical	20	1.3	0	0	0	90	40	simple	0	0	0	0	0	0	0																																																																																		
+H			Hole	hole			Left									hole2	cortical	20	1.3	0	0	0	90	40	simple	0	0	0	0	0	0	0																																																																																		
+H			Hole	hole			Left									hole3	cortical	20	1.3	0	0	0	90	40	simple	0	0	0	0	0	0	0																																																																																		
+H			Hole	hole			Left									hole4	cortical	20	1.3	0	0	0	90	40	simple	0	0	0	0	0	0	0																																																																																		
+H			Hole	hole			Left									hole5	cortical	20	1.3	0	0	0	90	40	simple	0	0	0	0	0	0	0																																																																																		
+H			Hole	hole			Left									hole6	cortical	20	1.3	0	0	0	90	40	simple	0	0	0	0	0	0	0																																																																																		
+H			Hole	hole			Left									hole7	cortical	20	1.3	0	0	0	90	40	simple	0	0	0	0	0	0	0																																																																																		
+H			Hole	hole			Left									hole8	cortical	20	1.3	0	0	0	90	40	simple	0	0	0	0	0	0	0																																																																																		
+H			Hole	hole			Left									hole9	cortical	20	1.3	0	0	0	90	40	simple	0	0	0	0	0	0	0																																																																																		
+H			Hole	hole			Left									hole10	cortical	20	1.3	0	0	0	90	40	simple	0	0	0	0	0	0	0																																																																																		
+H			Hole	hole			Left									hole11	cortical	20	1.3	0	0	0	90	40	simple	0	0	0	0	0	0	0																																																																																		
+H			Hole	hole			Left									hole12	cortical	20	1.3	0	0	0	90	40	simple	0	0	0	0	0	0	0																																																																																		
+1		221_333_A_ap	Plate	plate	anterior	AP	Left					3x8 Hole	11.4	35																			hole1	0.0	0	hole2	-4.0	0	hole3	4.0	0	hole4	0.0	4	hole5	0	8.0	hole6	0	12.0	hole7	0	16.0	hole8	0	20.0	hole9	0	24.0	hole10	0	28.0	hole11	0	32.0																																																	
+2		221_334_A_ap	Plate	plate	anterior	AP	Left					4x8 Hole	15.4	35																			hole1	-2.0	0	hole2	-6.0	0	hole3	2.0	0	hole4	6.0	0	hole5	0	4.0	hole6	0	8.0	hole7	0	12.0	hole8	0	16.0	hole9	0	20.0	hole10	0	24.0	hole11	0	28.0	hole12	0	32.0																																														
+3		221_333_A_ml	Plate	plate	anterior	ML	Left		yes			3x8 Hole	11.4	35																			hole1	0.0	0	hole2	-1.0	0	hole3	-1.0	0	hole4	0.0	4	hole5	0	8.0	hole6	0	12.0	hole7	0	16.0	hole8	0	20.0	hole9	0	24.0	hole10	0	28.0	hole11	0	32.0																																																	
+4		221_334_A_ml	Plate	plate	anterior	ML	Left		yes			4x8 Hole	15.4	35																			hole1	0.0	0	hole2	-2.0	0	hole3	0.0	0	hole4	-2.0	0	hole5	0	4.0	hole6	0	8.0	hole7	0	12.0	hole8	0	16.0	hole9	0	20.0	hole10	0	24.0	hole11	0	28.0	hole12	0	32.0																																														
+H			Screw	screw			Left				1.3	8	1.3	8	cortical																																																																																																			
+H			Screw	screw			Left				1.3	10	1.3	10	cortical																																																																																																			
+H			Screw	screw			Left				1.3	12	1.3	12	cortical																																																																																																			
+H			Screw	screw			Left				1.3	14	1.3	14	cortical																																																																																																			
+H			Screw	screw			Left				1.3	16	1.3	16	cortical																																																																																																			
+H			Screw	screw			Left				1.3	18	1.3	18	cortical																																																				`																																															
+H			Screw	screw			Left				1.3	20	1.3	20	cortical																																																																																																			
+H			Screw	screw			Left				1.3	22	1.3	22	cortical																																																																																																			
+H			Screw	screw			Left				1.3	24	1.3	24	cortical																																																																																																			
+H			Screw	screw			Left				1.3	26	1.3	26	cortical																																																																																																			
+H			Screw	screw			Left				1.3	28	1.3	28	cortical																																																																																																			
+H			Screw	screw			Left				1.3	30	1.3	30	cortical																																																																																																			
+H			Screw	screw			Left				1.3	32	1.3	32	cortical																																																																																																			
+H			Screw	screw			Left				1.3	34	1.3	34	cortical																																																																																																			
+H			Screw	screw			Left				1.3	36	1.3	36	cortical																																																																																																			
+H			Screw	screw			Left				1.3	38	1.3	38	cortical																																																																																																			
+H			Screw	screw			Left				1.3	40	1.3	40	cortical																																																																																																			
+																																																																																																																		

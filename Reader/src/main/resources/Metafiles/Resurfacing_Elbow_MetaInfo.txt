@@ -1,0 +1,61 @@
+Scaler Color	255	0	0	red																							
+BasisPoint Color	255	0	255	magenta																							
+Axis Orientation Color	0	255	0	green																							
+Outline Color	0	0	0	black																							
+Guide Color	0	0	255	blue																							
+Decoration Color	0	255	255	cyan																							
+Extra Color	255	255	0	yellow																							
+																											
+Relates to measurement											y																
+Has Selection Panel	y			y								y															
+Field Names:	Part Number	SVG file	Component	Part	View	Side	Flip?	FlipDrawing	RotateDrawing	Size	mmOffset	mmLength	mmStemDiam	TaperAngle	Offset	Length	NeckAngle	Special	HeadSize	HeadLength	mmHeadLength	mmShellDiam	Profile	Message			
+1		11-210011	ElbowRsfDistalHead	ElbowRsfDistalHead	AP	Left	Yes		180	18	8					8									11-210011		
+2		11-210012	ElbowRsfDistalHead	ElbowRsfDistalHead	AP	Left	Yes		180	18	10					10									11-210012		
+3		11-210013	ElbowRsfDistalHead	ElbowRsfDistalHead	AP	Left	Yes		180	18	12					12									11-210013		
+4		11-210014	ElbowRsfDistalHead	ElbowRsfDistalHead	AP	Left	Yes		180	18	14					14									11-210014		
+5		11-210015	ElbowRsfDistalHead	ElbowRsfDistalHead	AP	Left	Yes		180	18	16					16									11-210015		
+6		11-210022	ElbowRsfDistalHead	ElbowRsfDistalHead	AP	Left	Yes		180	20	10					10									11-210022		
+7		11-210023	ElbowRsfDistalHead	ElbowRsfDistalHead	AP	Left	Yes		180	20	12					12									11-210023		
+8		11-210024	ElbowRsfDistalHead	ElbowRsfDistalHead	AP	Left	Yes		180	20	14					14									11-210024		
+9		11-210025	ElbowRsfDistalHead	ElbowRsfDistalHead	AP	Left	Yes		180	20	16					16									11-210025		
+10		11-210026	ElbowRsfDistalHead	ElbowRsfDistalHead	AP	Left	Yes		180	20	18					18									11-210026		
+11		11-210031	ElbowRsfDistalHead	ElbowRsfDistalHead	AP	Left	Yes		180	22	10					10									11-210031		
+12		11-210032	ElbowRsfDistalHead	ElbowRsfDistalHead	AP	Left	Yes		180	22	12					12									11-210032		
+13		11-210033	ElbowRsfDistalHead	ElbowRsfDistalHead	AP	Left	Yes		180	22	14					14									11-210033		
+14		11-210034	ElbowRsfDistalHead	ElbowRsfDistalHead	AP	Left	Yes		180	22	16					16									11-210034		
+15		11-210035	ElbowRsfDistalHead	ElbowRsfDistalHead	AP	Left	Yes		180	22	18					18									11-210035		
+16		11-210041	ElbowRsfDistalHead	ElbowRsfDistalHead	AP	Left	Yes		180	24	10					10									11-210041		
+17		11-210042	ElbowRsfDistalHead	ElbowRsfDistalHead	AP	Left	Yes		180	24	12					12									11-210042		
+18		11-210043	ElbowRsfDistalHead	ElbowRsfDistalHead	AP	Left	Yes		180	24	14					14									11-210043		
+19		11-210044	ElbowRsfDistalHead	ElbowRsfDistalHead	AP	Left	Yes		180	24	16					16									11-210044		
+20		11-210045	ElbowRsfDistalHead	ElbowRsfDistalHead	AP	Left	Yes		180	24	18					18									11-210045		
+21		11-210060	ElbowRsfDistalBody	ElbowRsfDistalBody	AP	Left	Yes		180	5mm x 10 mm															11-210060	10	5
+22		11-210061	ElbowRsfDistalBody	ElbowRsfDistalBody	AP	Left	Yes		180	6mm x 12 mm															11-210061	12	6
+23		11-210062	ElbowRsfDistalBody	ElbowRsfDistalBody	AP	Left	Yes		180	7mm x 14 mm															11-210062	14	7
+24		11-210063	ElbowRsfDistalBody	ElbowRsfDistalBody	AP	Left	Yes		180	8mm x 16 mm															11-210063	16	8
+25		11-210064	ElbowRsfDistalBody	ElbowRsfDistalBody	AP	Left	Yes		180	9mm x 18 mm															11-210064	18	9
+1		11-210011	ElbowRsfDistalHead	ElbowRsfDistalHead	ML	Left	Yes		180	18	8					8									11-210011		
+2		11-210012	ElbowRsfDistalHead	ElbowRsfDistalHead	ML	Left	Yes		180	18	10					10									11-210012		
+3		11-210013	ElbowRsfDistalHead	ElbowRsfDistalHead	ML	Left	Yes		180	18	12					12									11-210013		
+4		11-210014	ElbowRsfDistalHead	ElbowRsfDistalHead	ML	Left	Yes		180	18	14					14									11-210014		
+5		11-210015	ElbowRsfDistalHead	ElbowRsfDistalHead	ML	Left	Yes		180	18	16					16									11-210015		
+6		11-210022	ElbowRsfDistalHead	ElbowRsfDistalHead	ML	Left	Yes		180	20	10					10									11-210022		
+7		11-210023	ElbowRsfDistalHead	ElbowRsfDistalHead	ML	Left	Yes		180	20	12					12									11-210023		
+8		11-210024	ElbowRsfDistalHead	ElbowRsfDistalHead	ML	Left	Yes		180	20	14					14									11-210024		
+9		11-210025	ElbowRsfDistalHead	ElbowRsfDistalHead	ML	Left	Yes		180	20	16					16									11-210025		
+10		11-210026	ElbowRsfDistalHead	ElbowRsfDistalHead	ML	Left	Yes		180	20	18					18									11-210026		
+11		11-210031	ElbowRsfDistalHead	ElbowRsfDistalHead	ML	Left	Yes		180	22	10					10									11-210031		
+12		11-210032	ElbowRsfDistalHead	ElbowRsfDistalHead	ML	Left	Yes		180	22	12					12									11-210032		
+13		11-210033	ElbowRsfDistalHead	ElbowRsfDistalHead	ML	Left	Yes		180	22	14					14									11-210033		
+14		11-210034	ElbowRsfDistalHead	ElbowRsfDistalHead	ML	Left	Yes		180	22	16					16									11-210034		
+15		11-210035	ElbowRsfDistalHead	ElbowRsfDistalHead	ML	Left	Yes		180	22	18					18									11-210035		
+16		11-210041	ElbowRsfDistalHead	ElbowRsfDistalHead	ML	Left	Yes		180	24	10					10									11-210041		
+17		11-210042	ElbowRsfDistalHead	ElbowRsfDistalHead	ML	Left	Yes		180	24	12					12									11-210042		
+18		11-210043	ElbowRsfDistalHead	ElbowRsfDistalHead	ML	Left	Yes		180	24	14					14									11-210043		
+19		11-210044	ElbowRsfDistalHead	ElbowRsfDistalHead	ML	Left	Yes		180	24	16					16									11-210044		
+20		11-210045	ElbowRsfDistalHead	ElbowRsfDistalHead	ML	Left	Yes		180	24	18					18									11-210045		
+21		11-210060	ElbowRsfDistalBody	ElbowRsfDistalBody	ML	Left	Yes		180	5mm x 10 mm															11-210060	10	5
+22		11-210061	ElbowRsfDistalBody	ElbowRsfDistalBody	ML	Left	Yes		180	6mm x 12 mm															11-210061	12	6
+23		11-210062	ElbowRsfDistalBody	ElbowRsfDistalBody	ML	Left	Yes		180	7mm x 14 mm															11-210062	14	7
+24		11-210063	ElbowRsfDistalBody	ElbowRsfDistalBody	ML	Left	Yes		180	8mm x 16 mm															11-210063	16	8
+25		11-210064	ElbowRsfDistalBody	ElbowRsfDistalBody	ML	Left	Yes		180	9mm x 18 mm															11-210064	18	9
